@@ -85,9 +85,8 @@ TEXT
       expect(assign_rooms(["Steve"])).to eq(["Hello, Steve! You'll be assigned to room 1!"])
     end
 
-  end
 
-  
+
 
   end
 
